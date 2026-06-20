@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+button { cursor: pointer; }
